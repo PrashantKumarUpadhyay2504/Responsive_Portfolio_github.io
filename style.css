@@ -23,7 +23,7 @@ html{
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #555;
+    background: rgb(75, 53, 196);
 }
 
 /* all similar content styling codes */
@@ -120,7 +120,7 @@ section .title::after{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: rgb(7, 30, 65);
+    color: rgb(75, 53, 196);
 }
 .navbar.sticky .menu li a:hover{
     color: #fff;
@@ -210,7 +210,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
-    color: rgb(38, 25, 112);
+    color: rgb(75, 53, 196);
     background: none;
 }
 
@@ -254,7 +254,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .about .about-content .right a:hover{
-    color: rgb(17, 22, 90);
+    color: rgb(75, 53, 196);
     background: none;
 }
 
@@ -282,7 +282,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .services .serv-content .card:hover{
-    background: rgb(37, 21, 95);
+    background: rgb(75, 53, 196);
 }
 .services .serv-content .card .box{
     transition: all 0.3s ease;
@@ -296,7 +296,7 @@ section .title::after{
     transition: color 0.3s ease;
 }
 .services .serv-content .card:hover i{
-    color: #fff;
+    color: rgb(75, 53, 196);
 }
 .services .serv-content .card .text{
     font-size: 25px;
@@ -333,7 +333,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .skills .skills-content .left a:hover{
-    color: rgb(26, 18, 99);
+    color: rgb(75, 53, 196);
     background: none;
 }
 .skills .skills-content .right .bars{
@@ -393,7 +393,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .accounts .carousel .card:hover{
-    background: rgb(14, 15, 99);
+    background: rgb(75, 53, 196);
 }
 .accounts .carousel .card .box{
     display: flex;
@@ -419,7 +419,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .accounts .carousel .card:hover img{
-    border-color: #fff;
+    border-color: rgb(75, 53, 196);
 }
 .owl-dots{
     text-align: center;
@@ -440,7 +440,7 @@ section .title::after{
 }
 .owl-dot.active,
 .owl-dot:hover{
-    background: rgb(31, 17, 110)!important;
+    background: rgb(75, 53, 196)!important;
 }
 
 /* contact section styling */
@@ -535,7 +535,7 @@ section .title::after{
   transition: all 0.3s ease;
 }
 .right form .button-area button:hover{
-  color: rgb(23, 16, 117);
+  color: rgb(75, 53, 196);
   background: none;
 }
 /* footer section styling */
