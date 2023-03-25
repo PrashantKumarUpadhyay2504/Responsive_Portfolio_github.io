@@ -165,8 +165,8 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    /* background: url("") no-repeat center; */
-    background: #103e55;
+    background: url("./images/altumcode-dMUt0X3f59Q-unsplash.jpg") no-repeat center;
+    /* background: #103e55; */
     height: 100vh;
     color: white;
     min-height: 500px;
