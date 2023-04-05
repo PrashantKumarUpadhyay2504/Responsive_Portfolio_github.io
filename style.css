@@ -23,7 +23,7 @@ html{
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: rgb(75, 53, 196);
+    background: rgb(23, 25, 107);
 }
 
 /* all similar content styling codes */
@@ -63,7 +63,7 @@ section .title::before{
     left: 50%;
     width: 180px;
     height: 3px;
-    background: rgb(15, 14, 85);
+    background: rgb(23, 25, 107);
     transform: translateX(-50%);
 }
 section .title::after{
@@ -71,7 +71,7 @@ section .title::after{
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color: rgb(25, 17, 97);
+    color: rgb(23, 25, 107);
     padding: 0 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -88,7 +88,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: rgb(17, 16, 92);
+    background: rgb(23, 25, 107);
 }
 .navbar .max-width{
     display: flex;
@@ -101,7 +101,7 @@ section .title::after{
     font-weight: 600;
 }
 .navbar .logo a span{
-    color: rgb(15, 16, 83);
+    color: rgb(23, 25, 107);
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
@@ -120,7 +120,7 @@ section .title::after{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: rgb(75, 53, 196);
+    color: rgb(23, 25, 107);
 }
 .navbar.sticky .menu li a:hover{
     color: #fff;
@@ -137,7 +137,7 @@ section .title::after{
     position: fixed;
     height: 45px;
     width: 42px;
-    background: rgb(45, 20, 114);
+    background: rgb(23, 25, 107);
     right: 30px;
     bottom: 10px;
     text-align: center;
@@ -194,23 +194,23 @@ section .title::after{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: rgb(27, 26, 97);
+    color: rgb(23, 25, 107);
     font-weight: 500;
 }
 .home .home-content a{
     display: inline-block;
-    background: rgb(38, 25, 116);
+    background: rgb(23, 25, 107);
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     font-weight: 400;
     border-radius: 6px;
-    border: 2px solid rgb(33, 21, 100);
+    border: 2px solid rgb(23, 25, 107);
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
-    color: rgb(75, 53, 196);
+    color: rgb(23, 25, 107);
     background: none;
 }
 
@@ -225,7 +225,7 @@ section .title::after{
     height: 400px;
     width: 400px;
     object-fit: cover;
-    border-radius: 6px;
+    border-radius: 10px;
 }
 .about .about-content .right{
     width: 55%;
@@ -236,14 +236,14 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: rgb(32, 14, 83);
+    color: rgb(23, 25, 107);
 }
 .about .about-content .right p{
     text-align: justify;
 }
 .about .about-content .right a{
     display: inline-block;
-    background: rgb(38, 29, 119);
+    background: rgb(23, 25, 107);
     color: #fff;
     font-size: 20px;
     font-weight: 500;
@@ -282,7 +282,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .services .serv-content .card:hover{
-    background: rgb(75, 53, 196);
+    background: rgb(23, 25, 107);
 }
 .services .serv-content .card .box{
     transition: all 0.3s ease;
@@ -292,11 +292,11 @@ section .title::after{
 }
 .services .serv-content .card i{
     font-size: 50px;
-    color: rgb(43, 22, 102);
+    color: rgb(23, 25, 107);
     transition: color 0.3s ease;
 }
 .services .serv-content .card:hover i{
-    color: rgb(75, 53, 196);
+    color:rgb(23, 25, 107);
 }
 .services .serv-content .card .text{
     font-size: 25px;
@@ -322,18 +322,18 @@ section .title::after{
 }
 .skills .skills-content .left a{
     display: inline-block;
-    background: rgb(18, 13, 94);
+    background: rgb(23, 25, 107);
     color: #fff;
     font-size: 18px;
     font-weight: 500;
     padding: 8px 16px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid rgb(33, 13, 109);
+    border: 2px solid rgb(23, 25, 107);
     transition: all 0.3s ease;
 }
 .skills .skills-content .left a:hover{
-    color: rgb(75, 53, 196);
+    color: rgb(23, 25, 107);
     background: none;
 }
 .skills .skills-content .right .bars{
@@ -361,7 +361,7 @@ section .title::after{
     height: 100%;
     left: 0;
     top: 0;
-    background: rgb(33, 9, 77);
+    background: rgb(23, 25, 107);
 }
 .skills-content .right .java::before{
     width: 85%;
@@ -393,7 +393,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .accounts .carousel .card:hover{
-    background: rgb(75, 53, 196);
+    background: rgb(23, 25, 107);
 }
 .accounts .carousel .card .box{
     display: flex;
@@ -415,11 +415,11 @@ section .title::after{
     width: 150px;
     object-fit: cover;
     border-radius: 50%;
-    border: 5px solid rgb(26, 13, 99);
+    border: 5px solid rgb(23, 25, 107);
     transition: all 0.3s ease;
 }
 .accounts .carousel .card:hover img{
-    border-color: rgb(75, 53, 196);
+    border-color: rgb(23, 25, 107);
 }
 .owl-dots{
     text-align: center;
@@ -431,7 +431,7 @@ section .title::after{
     margin: 0 5px;
     outline: none!important;
     border-radius: 50%;
-    border: 2px solid rgb(19, 13, 105)!important;
+    border: 2px solid rgb(23, 25, 107)!important;
     transition: all 0.3s ease;
 }
 .owl-dot.active{
@@ -440,7 +440,7 @@ section .title::after{
 }
 .owl-dot.active,
 .owl-dot:hover{
-    background: rgb(75, 53, 196)!important;
+    background: rgb(23, 25, 107)!important;
 }
 
 /* contact section styling */
@@ -471,7 +471,7 @@ section .title::after{
 }
 .contact .contact-content .row i{
     font-size: 25px;
-    color: rgb(23, 9, 82);
+    color: rgb(23, 25, 107);
 }
 .contact .contact-content .info .head{
     font-weight: 500;
@@ -530,12 +530,12 @@ section .title::after{
   border-radius: 6px;
   cursor: pointer;
   flex-wrap: nowrap;
-  background: rgb(25, 9, 83);
-  border: 2px solid rgb(14, 8, 92);
+  background: rgb(23, 25, 107);
+  border: 2px solid rgb(23, 25, 107);
   transition: all 0.3s ease;
 }
 .right form .button-area button:hover{
-  color: rgb(75, 53, 196);
+  color: rgb(23, 25, 107);
   background: none;
 }
 /* footer section styling */
@@ -546,7 +546,7 @@ footer{
     text-align: center;
 }
 footer span a{
-    color: rgb(29, 20, 109);
+    color: rgb(23, 25, 107);
     text-decoration: none;
 }
 footer span a:hover{
