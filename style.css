@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("./images/ales-nesetril-Im7lZjxeLhg-unsplash.jpg") no-repeat center;
+    background: url("./images/home_page.jpg") no-repeat center;
     /* background: #103e55; */
     height: 100vh;
     color: white;
@@ -413,6 +413,9 @@ section .title::after{
     font-weight: 500;
     margin: 10px 0 7px 0;
 }
+.accounts .carousel .card .text{
+    color: #fff;
+}
 .accounts .carousel .card img{
     height: 150px;
     width: 150px;
@@ -480,7 +483,7 @@ section .title::after{
     font-weight: 500;
 }
 .contact .contact-content .info .sub-title{
-    color: #333;
+    color: rgb(104, 102, 102);
 }
 .contact .right form .fields{
     display: flex;
@@ -545,7 +548,7 @@ section .title::after{
 footer{
     background: #111;
     padding: 15px 23px;
-    color: #fff;
+    color: rgb(247, 245, 245);
     text-align: center;
 }
 footer span a{
